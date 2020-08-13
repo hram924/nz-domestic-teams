@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "name": "Northern Knights",
+    "city": "Whangerei",
+    "runnerUp": 2,
+    "stadium": "Seddon Park",
+    "summary": "The Auckland Aces represent the Auckland region and are one of six New Zealand domestic first class cricket teams. Governed by the Auckland Cricket Association they are the most successful side having won 28 Plunket Shield titles, ten Ford Trophy championships and the Super Smash four times. The side currently play their home games at Eden Park Outer Oval.",
+    "championships": [2014, 2018]
+  },
+  {
+    "id": 1,
+    "name": "Auckland Aces",
+    "city": "Auckland",
+    "runnerUp": 4,
+    "stadium": "Eden Park Outer Oval",
+    "summary": "The Auckland Aces represent the Auckland region and are one of six New Zealand domestic first class cricket teams. Governed by the Auckland Cricket Association they are the most successful side having won 28 Plunket Shield titles, ten Ford Trophy championships and the Super Smash four times. The side currently play their home games at Eden Park Outer Oval.",
+    "championships": [2007, 2011, 2012, 2016]
+  },
+  {
+    "id": 2,
+    "name": "Central Districts",
+    "city": "Napier",
+    "runnerUp": 1,
+    "stadium": "McLean Park",
+    "summary": "The Central Stags, formerly known as Central Districts, are a first-class cricket team based in central New Zealand. They are the men's representative side of the Central Districts Cricket Association.",
+    "championships": [2008, 2010, 2019]
+  },
+  {
+    "id": 3,
+    "name": "Wellington Firebirds",
+    "city": "Wellington",
+    "runnerUp": 3,
+    "stadium": "Basin Reserve",
+    "summary": "The Wellington Firebirds are one of six New Zealand first-class cricket teams that make up New Zealand Cricket. It is based in Wellington. It competes in the Plunket Shield first class (4-day) competition, the Ford Trophy domestic one day competition and the Super Smash.",
+    "championships": [ 2015, 2017, 2020 ]
+  },
+  {
+    "id": 4,
+    "name": "Canterbury Kings",
+    "city": "Christchurch",
+    "runnerUp": 2,
+    "stadium": "Hagley Oval",
+    "summary": "Canterbury is a first-class cricket team based in Canterbury, New Zealand. It is one of six teams that compete in senior New Zealand Cricket competitions and has been the second most successful domestic team in New Zealand history. They compete in the Plunket Shield first-class competition and the Ford Trophy one day competition as well as in the Super Smash competition as the Canterbury Kings.",
+    "championships": [2006]
+  },
+  {
+    "id": 5,
+    "name": "Otago Volts",
+    "city": "Dunedin",
+    "runnerUp": 3,
+    "stadium": "University Oval",
+    "summary": "The Otago cricket team (nicknamed the Volts since the 1997–98 season) are a New Zealand first class cricket team formed in 1864 representing the Otago, Southland and North Otago regions. Their main governing board is the Otago Cricket Association which is one of six major associations that make up New Zealand Cricket.",
+    "championships": [2009, 2013]
+  }
+]

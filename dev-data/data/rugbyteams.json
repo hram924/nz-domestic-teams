@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "name": "Blues",
+    "city": "Auckland",
+    "winRate": 0.51,
+    "semiFinalWins": 4,
+    "semiFinalLoss": 2,
+    "stadium": "Eden Park",
+    "summary": "The Blues (known as the Auckland Blues from 1996 to 2000) is a New Zealand professional rugby union team based in Auckland, New Zealand who play in the Super Rugby competition. Like New Zealand's four other Super Rugby teams, the Blues were established by the NZRU in 1996. One of the most successful teams in Super Rugby history, the Blues won the competition in its first two seasons, 1996 and 1997, and again in 2003. Additionally, the team were finalists in 1998 and semi-finalists in 2007 and 2011.",
+    "championships": [1996, 1997, 2003]
+  },
+  {
+    "id": 1,
+    "name": "Chiefs",
+    "city": "Hamilton",
+    "winRate": 0.54,
+    "semiFinalWins": 3,
+    "semiFinalLoss": 3,
+    "stadium": "FMG Stadium Waikato",
+    "summary": "The Chiefs (formerly known as the Waikato Chiefs and officially called the Gallagher Chiefs for sponsorship reasons) are a New Zealand professional rugby union team based in Hamilton, New Zealand. The team competes in the Super Rugby competition, previously known as the Super 12 and Super 14, and are one of the competition's five New Zealand teams. Playing in black, red and yellow coloured jerseys, their primary home ground is Waikato Stadium.",
+    "championships": [ 2012, 2013 ]
+  },
+  {
+    "id": 2,
+    "name": "Hurricanes",
+    "city": "Wellington",
+    "winRate": 0.57,
+    "semiFinalWins": 3,
+    "semiFinalLoss": 6,
+    "stadium": "Sky Stadium",
+    "summary": "The Hurricanes (formerly the Wellington Hurricanes) is a New Zealand professional rugby union team based in Wellington that competes in Super Rugby. The Hurricanes were formed to represent the lower North Island, including the East Coast, Hawke's Bay, Horowhenua Kapiti, Manawatu, Poverty Bay, Wairarapa-Bush, Wanganui and Wellington unions. They currently play at Sky Stadium (formerly named Westpac Stadium), having previously played at the now-defunct Athletic Park.",
+    "championships": [ 2016 ]
+  },
+  {
+    "id": 3,
+    "name": "Highlanders",
+    "city": "Dunedin",
+    "winRate": 0.49,
+    "semiFinalWins": 2,
+    "semiFinalLoss": 4,
+    "stadium": "Forsyth Barr Stadium",
+    "summary": "The Highlanders (formerly the Otago Highlanders and currently known as the Pulse Energy Highlanders for sponsorship reasons[1]) is a New Zealand professional rugby union team based in Dunedin that compete in Super Rugby. The team was formed in 1996 to represent the lower South Island in the newly formed Super 12 competition, and includes the Otago, North Otago and Southland unions. The Highlanders take their name from the Scottish immigrants that helped found the Otago, North Otago, and Southland regions in the 1840s and 1850s.",
+    "championships": [2015]
+  },
+  {
+    "id": 4,
+    "name": "Crusaders",
+    "city": "Christchurch",
+    "winRate": 0.70,
+    "semiFinalWins": 12,
+    "semiFinalLoss": 5,
+    "stadium": "Rugby League Park",
+    "summary": "The Crusaders (formerly Canterbury Crusaders and BNZ Crusaders due to sponsorship by the Bank of New Zealand) are a New Zealand professional rugby union team based in Christchurch, who compete in the Super Rugby competition. They have won 10 titles (1998, 1999, 2000, 2002, 2005, 2006, 2008, 2017, 2018 and 2019). Formed in 1996 to represent the upper South Island of New Zealand in the Super 12, the Crusaders represent the Buller, Canterbury, Mid-Canterbury, South Canterbury, Tasman and West Coast provincial Rugby Unions. Their main home ground is Orangetheory Stadium, formerly known as AMI Stadium, before that Jade Stadium, formerly known as Lancaster Park. They are the current Super Rugby champions.",
+    "championships": [ 1998, 1999, 2000, 2002, 2005, 2006, 2008, 2017, 2018, 2019 ]
+  }
+]
